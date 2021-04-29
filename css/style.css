@@ -1,0 +1,9 @@
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+#mapid {
+    width: 1200px;
+    height: 600px;
+}
